@@ -1,7 +1,6 @@
 # BigTime Item Auction - Smart Contract
 
 This project contains a smart contract for conducting **character upgrade item auctions** within the Big Time game ecosystem.  
-The contract is deployed on the **Sepolia** network and meets all technical requirements for Module 2.
 
 ##  Description
 
